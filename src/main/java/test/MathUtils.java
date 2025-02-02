@@ -1,4 +1,4 @@
-package test2;
+package test;
 
 public class MathUtils {
     public int add(int a, int b) {
