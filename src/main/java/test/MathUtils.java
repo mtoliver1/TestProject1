@@ -17,6 +17,6 @@ public class MathUtils {
         if (b == 0) {
             throw new ArithmeticException("Cannot divide by zero");
         }
-        return a / b; //test
+        return a / b; 
     }
 }
